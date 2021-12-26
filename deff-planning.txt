@@ -7,4 +7,4 @@ Planning for my future :
 - Learn Flutter
 - Learn SQL
 - Learn Database
-- Make great app
+
