@@ -1,0 +1,7 @@
+I want to make some apps :
+- Calculator
+  with database
+- Monopoli
+  using python
+- Money App
+- buying and selling app
