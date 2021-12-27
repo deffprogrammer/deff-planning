@@ -8,4 +8,4 @@ I want to make some apps :
   using python
   with database
 - buying and selling app
-  using java
+  using python
