@@ -1,7 +1,10 @@
 I want to make some apps :
 - Calculator
   with database
+  mysql
 - Monopoli
   using python
 - Money App
+  using python
+  with database
 - buying and selling app
